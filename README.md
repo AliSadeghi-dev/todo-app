@@ -1,2 +1,13 @@
-# todo-app
-todo-app with node express
+# todo-list
+
+## Project setup
+```
+npm install
+```
+
+### run project
+```
+npm start
+```
+
+
